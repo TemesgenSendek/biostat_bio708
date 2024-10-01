@@ -2,7 +2,7 @@
 rm(list = ls())
 
 # load package
-library(tidyverse)
+source("code/set_library.R")
 
 h <- c(16.9, 20.9, 15.8, 28, 21.6, 15.9, 22.4, 23.7, 22.9, 18.5)
 
