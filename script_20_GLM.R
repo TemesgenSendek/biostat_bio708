@@ -133,5 +133,4 @@ m_binom_var <- glm(cbind(n_fertilized, n_examined - n_fertilized) ~ density,
 m_binom_var
 
 
-
 #END 
